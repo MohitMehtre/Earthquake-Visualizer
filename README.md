@@ -15,7 +15,7 @@ Built with React + TailwindCSS, it visualizes earthquake events on an interactiv
 - 🌗 **Dark Mode Support** — clean UI that adapts to your theme.
 - 🔄 **Auto Refresh** — data refreshes every 5 minutes, with manual **Retry** on errors.
 - ⚡ **Error Handling** — clear messages + retry option when data fails to load.
-- 📍 **Map Visualization** *(optional, if you’ve integrated a map library)* — see earthquakes plotted on a map.
+- 📍 **Map Visualization** — see earthquakes plotted on a map.
 
 ---
 
@@ -23,13 +23,13 @@ Built with React + TailwindCSS, it visualizes earthquake events on an interactiv
 
 👉 [Live Demo](https://earthhquake-visualizer.netlify.app/)  
 
-![screenshot](./screenshot.png)  
+![screenshot](./src/assets/EarthquakeVisualizer.png)  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, TailwindCSS  
+- **Frontend:** React, vite, TailwindCSS  
 - **APIs:** USGS GeoJSON Earthquake Feeds  
 - **Deployment:** Netlify 
 
