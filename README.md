@@ -22,10 +22,8 @@ Built with React + TailwindCSS, it visualizes earthquake events on an interactiv
 ## 🚀 Demo
 
 👉 [Live Demo](https://earthhquake-visualizer.netlify.app/)  
-*(Replace with your Netlify/Vercel/GitHub Pages link)*
 
 ![screenshot](./screenshot.png)  
-*(Add a screenshot of your app here for visual appeal)*
 
 ---
 
