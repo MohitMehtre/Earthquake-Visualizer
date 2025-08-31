@@ -21,7 +21,7 @@ Built with React + TailwindCSS, it visualizes earthquake events on an interactiv
 
 ## 🚀 Demo
 
-👉 [Live Demo](https://your-demo-link.netlify.app/)  
+👉 [Live Demo](https://earthhquake-visualizer.netlify.app/)  
 *(Replace with your Netlify/Vercel/GitHub Pages link)*
 
 ![screenshot](./screenshot.png)  
@@ -33,7 +33,7 @@ Built with React + TailwindCSS, it visualizes earthquake events on an interactiv
 
 - **Frontend:** React, TailwindCSS  
 - **APIs:** USGS GeoJSON Earthquake Feeds  
-- **Deployment:** Netlify / Vercel (your choice)  
+- **Deployment:** Netlify 
 
 ---
 
@@ -41,7 +41,7 @@ Built with React + TailwindCSS, it visualizes earthquake events on an interactiv
 
 1. Clone this repo
    ```bash
-   git clone https://github.com/yourusername/earthquake-visualizer.git
+   git clone https://github.com/MohitMehtre/Earthquake-Visualizer
    cd earthquake-visualizer
     ```
 2. Install dependencies
