@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Default dark mode */
+.leaflet-container {
+  background: #121212 !important;
+}
+
+/* Light mode override */
+html.light .leaflet-container {
+  background: #f0f0f0 !important;
+}
